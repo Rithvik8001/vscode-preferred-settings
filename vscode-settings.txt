@@ -1,0 +1,41 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "editor.fontSize": 15.8,
+  "terminal.integrated.fontSize": 15.7,
+  "editor.lineHeight": 24,
+  // statusBar
+  "workbench.statusBar.visible": false,
+  // showTabs
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "editor.linkedEditing": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.tips.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorWidth": 4,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.detectIndentation": true,
+  "explorer.compactFolders": false,
+  "extensions.ignoreRecommendations": true,
+  "editor.fontFamily": "Consolas",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.guides.indentation": true, // indentation,
+  "editor.fontLigatures": "'ss02' on",
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
