@@ -4,9 +4,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "prettier.tabWidth": 2,
-  "editor.fontSize": 14.5,
-  "terminal.integrated.fontSize": 15,
-  "editor.lineHeight": 24,
+  "terminal.integrated.fontSize": 14.3,
   // statusBar
   "workbench.statusBar.visible": false,
   // showTabs
@@ -19,13 +17,10 @@
   "editor.lightbulb.enabled": "off",
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
-  "editor.cursorBlinking": "solid",
-  "editor.cursorWidth": 4,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.detectIndentation": true,
   "explorer.compactFolders": false,
   "extensions.ignoreRecommendations": true,
-  "editor.fontFamily": "MonoLisa",
   "emmet.syntaxProfiles": {
     "javascript": "jsx",
     "typescript": "jsx"
@@ -37,8 +32,29 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.guides.indentation": true, // indentation,
   "editor.fontLigatures": "'ss02' on",
-  "workbench.iconTheme": "eq-material-theme-icons-light",
-  "workbench.colorTheme": "GitHub Dark Default",
   "git.decorations.enabled": false,
-  "scm.diffDecorations": "none"
+  // git lines - false
+  "scm.diffDecorations": "none",
+  "explorer.confirmDelete": false,
+  "playwright.reuseBrowser": true,
+  "editor.fontSize": 14.3,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "prettier.eslintIntegration": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.sideBar.location": "right",
+  "supermaven.otherWarning": false,
+  "codeium.enableCodeLens": false,
+  "workbench.iconTheme": "catppuccin-perfect-macchiato",
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "git.openRepositoryInParentFolders": "always",
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }
