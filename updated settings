@@ -1,11 +1,11 @@
 {
-  "editor.fontFamily": "Dank Mono, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "SF Mono",
   "editor.tabSize": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "prettier.tabWidth": 2,
-  "terminal.integrated.fontSize": 15.7,
-  "terminal.integrated.fontFamily": "Dank Mono",
+  "terminal.integrated.fontSize": 14.4,
+  "terminal.integrated.fontFamily": "SF Mono",
   "workbench.statusBar.visible": false,
   "editor.snippetSuggestions": "top",
   "editor.minimap.enabled": false,
@@ -26,8 +26,8 @@
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.fontLigatures": true,
-  "editor.fontSize": 16.5,
-  "editor.fontWeight": "100",
+  "editor.fontSize": 15.1,
+  "editor.fontWeight": "300",
   "breadcrumbs.enabled": false,
   "workbench.sideBar.location": "right",
   "workbench.editor.showTabs": "single",
@@ -38,7 +38,7 @@
   "workbench.tree.indent": 10,
   "explorer.compactFolders": false,
   "git.decorations.enabled": false,
-  "editor.lineHeight": 2,
+  "editor.lineHeight": 1.7,
   "editor.wordWrap": "on",
   "editor.quickSuggestions": {
     "strings": "on"
@@ -49,8 +49,11 @@
   "editor.cursorStyle": "line",
   "editor.cursorBlinking": "solid",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.guides.indentation": false,
+  "editor.guides.indentation": true,
   "explorer.decorations.badges": false,
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Oscura"
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "Vercel 2024 Dark",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden"
 }
