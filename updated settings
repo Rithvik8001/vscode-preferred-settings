@@ -1,7 +1,6 @@
 {
-  "editor.fontSize": 14.7,
+  "editor.fontSize": 15,
   "editor.lightbulb.enabled": "off",
-  "editor.fontWeight": "normal",
   "editor.fontLigatures": true,
   "editor.scrollbar.horizontal": "hidden",
   "editor.scrollbar.vertical": "hidden",
@@ -30,7 +29,7 @@
   "workbench.tree.renderIndentGuides": "none",
   "workbench.tree.indent": 10,
   "explorer.compactFolders": false,
-  "git.decorations.enabled": false,
+  "git.decorations.enabled": true,
   "editor.wordWrap": "on",
   "editor.quickSuggestions": {
     "strings": "on"
@@ -46,13 +45,15 @@
   "workbench.statusBar.visible": false,
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "workbench.layoutControl.enabled": false,
   "workbench.editor.showTabs": "single",
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.formatOnSave": true,
   "editor.fontFamily": "MonoLisa",
   "chat.commandCenter.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.colorTheme": "Oscura Midnight",
-  "editor.lineHeight": 1.6
+  "editor.lineHeight": 1.6,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontWeight": "100",
+  "workbench.colorTheme": "Vercel (Dark)"
 }
