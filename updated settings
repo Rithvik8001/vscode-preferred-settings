@@ -1,13 +1,13 @@
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 15.2,
   "editor.lightbulb.enabled": "off",
   "editor.fontLigatures": true,
   "editor.scrollbar.horizontal": "hidden",
   "editor.scrollbar.vertical": "hidden",
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
-  "terminal.integrated.fontFamily": "MonoLisa",
-  "terminal.integrated.fontSize": 14.5,
+  "terminal.integrated.fontFamily": "Menlo",
+  "terminal.integrated.fontSize": 14.8,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.tabWidth": 2,
   "workbench.tips.enabled": false,
@@ -18,7 +18,7 @@
   "editor.detectIndentation": true,
   "emmet.syntaxProfiles": {
     "javascript": "jsx",
-    "typescript": "jsx"
+    "typescript": "tsx"
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -47,28 +47,15 @@
   "workbench.editor.showTabs": "single",
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.formatOnSave": true,
-  "editor.fontFamily": "MonoLisa",
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
   "chat.commandCenter.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.lineHeight": 1.7,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "editor.fontWeight": "100",
-  "workbench.colorTheme": "Catppuccin Mocha",
   "explorer.decorations.colors": true,
   "explorer.compactFolders": false,
-  "workbench.iconTheme": "catppuccin-mocha",
   "editor.semanticHighlighting.enabled": true,
   "window.titleBarStyle": "custom",
   "terminal.integrated.minimumContrastRatio": 1,
-  "editor.semanticTokenColorCustomizations": {
-    "enabled": true,
-    "rules": {
-      "*": { "fontStyle": "" }, // clears italic/bold/underline for all semantic tokens
-      "variable.readonly": { "fontStyle": "" },
-      "parameter": { "fontStyle": "" },
-      "type": { "fontStyle": "" },
-      "typeParameter": { "fontStyle": "" },
-      "property": { "fontStyle": "" }
-    }
-  }
+  "editor.lineHeight": 1.6,
+  "editor.fontWeight": "400"
 }
